@@ -1,6 +1,7 @@
 {
 	"author": "Nishikant Bawache",
 	"description": "Managing packages with NPM, with FCC learn.",
+	"keywords":["freecodecamp", "NPM package managment", "learning"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
