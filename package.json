@@ -3,7 +3,7 @@
 	"description": "Managing packages with NPM, with FCC learn.",
 	"keywords":["freecodecamp", "NPM package managment", "learning"],
 	"name": "fcc-learn-npm-package-json",
-	"licence": "MIT",
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
